@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Fichiers de rapport exportés par l'appli
+*.txt
+!requirements.txt
+
+# Système
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
